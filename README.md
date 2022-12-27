@@ -1,16 +1,8 @@
-# dicee_flutter
+# Roll the Dice
+You can roll the dice and it will give random 2 numbers on these dices.
 
-A new Flutter project.
+We used math library in this app for using the Random function.
+### Preview:
+<br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Roll the dice](https://user-images.githubusercontent.com/118076077/209688218-b67bf5d6-7075-433a-84d0-4b4a1e2e02f1.gif)
