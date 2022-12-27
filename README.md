@@ -1,5 +1,5 @@
 # Roll the Dice
-You can roll the dice and it will give random 2 numbers on these dices.
+You can roll the dice and it will give you 2 random numbers on these dices.
 
 We used math library in this app for using the Random function.<br>
 
