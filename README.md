@@ -2,6 +2,7 @@
 You can roll the dice and it will give you 2 random numbers on these dices.
 
 We used math library in this app for using the Random function.<br>
+- This app is not upgraded with clean codes. You can check [MyCard App](https://github.com/batuhan-yaras/MyCard) in my repositories for see the example of writing clean codes.
 
 ### Preview:
 <br>
